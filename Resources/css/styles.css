@@ -2,6 +2,7 @@
 body {
     font-family: 'Open Sans', sans-serif;
     background: none;
+    height: 2000px;
 }
 
 .full {
@@ -13,7 +14,7 @@ body {
 }
 
 .main {
-    padding-top: 250px;
+    padding-top: 200px;
 }
 
 .intro-text {
@@ -21,3 +22,4 @@ body {
 }
 
 @media only screen and (min-width: 512px)
+    
